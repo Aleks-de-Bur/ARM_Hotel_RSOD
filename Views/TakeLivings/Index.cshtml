@@ -1,0 +1,70 @@
+﻿@model IEnumerable<ARM_Hotel.Models.Client>
+@{
+    ViewBag.Title = "Index";
+}
+
+@if (ViewBag.IsLiving == true)
+{
+    <h2>Оформление проживания</h2>
+}
+else
+{
+    <h2>Оформление бронирования</h2>
+}
+
+<div class="form-group">
+    @Html.ActionLink("Создать нового", "Create", "Clients", null, new { @class = "btn btn-info" })
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Patronymic)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SeriaPas)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumberPas)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Patronymic)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SeriaPas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumberPas)
+            </td>
+            <td>
+                @using (Html.BeginForm())
+                {
+                    <div>
+                        @Html.Hidden("ClientId", item.Id)
+                        @Html.Hidden("IsLiving", true)
+                        <input type="submit" value="Выбрать" class="btn btn-primary" />
+                    </div>
+                }
+            </td>
+        </tr>
+    }
+
+</table>

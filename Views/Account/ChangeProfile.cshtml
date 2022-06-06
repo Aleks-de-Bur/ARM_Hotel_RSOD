@@ -1,0 +1,37 @@
+﻿@model ARM_Hotel.Models.Security.ChangeProfile
+
+@{
+    Layout = null;
+    ViewBag.Title = "Редактирования профиля";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Редактирование данных</title>
+</head>
+<body>
+    <h1>Register</h1>
+    @using (Html.BeginForm("ChangeProfile", "Account", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken();
+        <table>
+            <tr>
+                <td>@Html.LabelFor(m => m.LastName)</td>
+                <td>@Html.TextBoxFor(m => m.LastName)</td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(m => m.Name)</td>
+                <td>@Html.TextBoxFor(m => m.Name)</td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Change" /></td>
+            </tr>
+        </table>
+    }
+    @ViewBag.Message
+    @Html.ValidationSummary()
+</body>
+</html>

@@ -1,0 +1,69 @@
+﻿@model ARM_Hotel.Models.Apartment
+
+@{
+    ViewBag.Title = "Детальная информация о номере";
+}
+
+<h2>Детальная информация о номере</h2>
+
+<div>
+    <h4>Номер @Model.Number</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaxGuests)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaxGuests)
+        </dd>
+
+        <dd>
+
+        </dd>
+    </dl>
+
+    <div class="media">
+        <div class="media-object">
+            @foreach (byte[] photo in ViewBag.Photos)
+            {
+                <img class="d-block w-100" src="data:image/jpeg;base64,@(Convert.ToBase64String(photo))">
+            }
+        </div>
+    </div>
+
+    @if (User.IsInRole("Admin"))
+    {
+        <p>
+            @Html.ActionLink("Редактировать", "Edit", new { id = Model.Id })
+        </p>
+    }
+    <p>
+        @Html.ActionLink("Вернуться к списку номеров", "Index")
+    </p>
+</div>

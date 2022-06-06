@@ -1,0 +1,49 @@
+﻿@model ARM_Hotel.Models.Photo
+@{
+    ViewBag.Title = "AddPhoto";
+}
+<h2>AddPhoto</h2>
+@using (Html.BeginForm("AddPhoto", "Photos", FormMethod.Post, new
+{
+    enctype ="multipart/form-data"
+}))
+{
+    @Html.AntiForgeryToken()
+    @Html.Hidden("id", Model.PhotoId);
+    <div class="form-horizontal">
+        <h4>MoviePhoto</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.Label("Назване фильма", htmlAttributes: new
+            {
+                @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Label(Model.Title, htmlAttributes: new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Описание", htmlAttributes: new { @class = "control-label col-md2" })
+            <div class="col-md-10">
+                @Html.Editor("description", new { htmlAttributes = new { @class = "formcontrol" } })
+                @Html.ValidationMessage("description", "", new
+                {
+                    @class = "text-danger"
+               })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="file" name="upload" /><br>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Загрузить" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}
+<div>
+    @Html.ActionLink("Вернуться к списку фотографий", "Index")
+</div>

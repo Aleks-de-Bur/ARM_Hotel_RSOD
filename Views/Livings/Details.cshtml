@@ -1,0 +1,155 @@
+﻿@model ARM_Hotel.Models.LivingDetailsModel
+@{
+    ViewBag.Title = "Детальная информация о проживании";
+}
+
+<div>
+    <h4>Проживание</h4>
+    <p style="color: green">@ViewBag.AllPrice</p>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Living.Apartment.Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Living.Apartment.Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Living.Client.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Living.Client.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Living.Client.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Living.Client.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Living.Client.Patronymic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Living.Client.Patronymic)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Living.Settling)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Living.Settling)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Living.Eviction)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Living.Eviction)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Living.Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Living.Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Living.ValueOfGuests)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Living.ValueOfGuests)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Living.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Living.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Living.Type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Living.Type)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Living.Active)
+        </dt>
+
+        <dd>
+            @Html.CheckBox("isActive", false, new { @class = "form-check-input" })
+        </dd>
+
+    </dl>
+</div>
+
+<div>
+    <h4>Дополнительные услуги</h4>
+    <table class="table">
+        <tr>
+            <th>
+                Название услуги
+            </th>
+            <th>
+                Стоимость
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model.Services)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Service.ServiceName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.ActionLink("Удалить", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+
+
+
+@if (User.IsInRole("Admin") || User.IsInRole("Operator"))
+{
+    if (Model.Living.Active == true)
+    {
+        <p>
+            @Html.ActionLink("Добавить услугу", "AddAdditionalService", "TakeLivings", new { Id = Model.Living.Id }, new { @class = "btn btn-info" })
+        </p>
+    }
+    <p>
+        @Html.ActionLink("Редактировать", "Edit", new { id = Model.Living.Id }) |
+        @Html.ActionLink("Вернуться к списку проживаний", "Index")
+    </p>
+
+}
+else if (User.IsInRole("Client"))
+{
+    <p>
+        @Html.ActionLink("Вернуться к списку проживаний", "Index")
+    </p>
+}
+

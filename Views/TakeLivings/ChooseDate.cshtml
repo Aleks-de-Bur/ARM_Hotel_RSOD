@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "ChooseDate";
+}
+
+<h2>Оформление проживания: выбор даты</h2>
+
+@using (Html.BeginForm("ChooseDate", "TakeLivings", FormMethod.Post))
+{
+    <div class="form-horizontal">
+        @Html.Hidden("ClientId", ViewBag.GuestId as string)
+
+        <div class="form-group">
+            @Html.Label("Клиент", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Label(ViewBag.Client.FirstName + " " + ViewBag.Client.LastName + " " + ViewBag.Client.Patronymic as string, htmlAttributes: new { @class = "control-label" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Выберите дату заселения", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="date" name="settling" class="form-control" value="@DateTime.Now.Date.ToOADate()">
+                @Html.ValidationMessage("Settling", "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Выберите дату выселения", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="date" name="eviction" class="form-control" value="@DateTime.Now.Date.ToString()">
+                @Html.ValidationMessage("Eviction", "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Выберите количество гостей", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="number" name="guestCount" class="form-control" value="0">
+                @Html.ValidationMessage("GuestCount", "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                @Html.Hidden("isLiving", ViewBag.isLiving as string)
+                <input type="submit" value="Выбрать" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}

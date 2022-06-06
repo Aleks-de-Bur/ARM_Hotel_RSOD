@@ -1,0 +1,72 @@
+﻿@model IEnumerable<ARM_Hotel.Models.Apartment>
+@{
+    ViewBag.Title = "ChooseApartment";
+}
+
+<h2>Выбор свободных номеров</h2>
+
+@using (Html.BeginForm("ChooseApartment", "TakeLivings", FormMethod.Post))
+{
+    if (Model.Any())
+    {
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Number)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Type)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MaxGuests)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Number)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Type)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MaxGuests)
+                    </td>
+                    <td>
+                        <div>
+                            @Html.Hidden("ClientId", ViewBag.ClientId as string)
+                            @Html.Hidden("ApartmentId", item.Id)
+                            @Html.Hidden("settling", ViewBag.settling as string)
+                            @Html.Hidden("eviction", ViewBag.eviction as string)
+                            @Html.Hidden("guestCount", ViewBag.guestCount as string)
+                            @Html.Hidden("isLiving", ViewBag.isLiving as string)
+                            @Html.Hidden("Price", ViewBag.Price as string)
+                            <input type="submit" value="Выбрать" class="btn btn-primary " />
+                        </div>
+
+                    </td>
+                </tr>
+            }
+
+        </table>
+    }
+    else
+    {
+        <div class="form-group">
+            <h3>
+                Нет свободных номеров на выбранные даты. 
+            </h3>
+            @Html.ActionLink("Вернуться к выбору дат", "ChooseDate", "TakeLivings", null, new { @class = "btn btn-info" })
+        </div>
+    }
+
+}

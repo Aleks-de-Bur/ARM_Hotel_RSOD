@@ -1,0 +1,95 @@
+﻿@model ARM_Hotel.Models.Booking
+
+@{
+    ViewBag.Title = "Удаление";
+}
+
+<h2>Удаление бронирования</h2>
+
+<h3>Вы уверены, что хотите удалить выбранную бронь?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Apartment.Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apartment.Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Client.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Client.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Settling)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Settling)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Eviction)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Eviction)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ValueOfGuests)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ValueOfGuests)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ClientId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClientId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-default" /> |
+            @Html.ActionLink("Вернуться к списку бронирований", "Index")
+        </div>
+    }
+</div>

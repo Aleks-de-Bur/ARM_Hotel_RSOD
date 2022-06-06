@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "ConfirmLiving";
+}
+<h2>Подтверждение заселения</h2>
+@using (Html.BeginForm("ConfirmLiving", "TakeLivings", FormMethod.Post))
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+            @Html.Label("Клиент", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Label(ViewBag.Client.FirstName + " " + ViewBag.Client.LastName + " " + ViewBag.Client.Patronymic as string, htmlAttributes: new { @class = "control-label" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Номер", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Label(ViewBag.Apartment.Number as string, htmlAttributes: new { @class = "control-label" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Дата заселения", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <label class="control-label">@ViewBag.settling.ToString()</label>
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Дата выселения", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <label class="control-label">@ViewBag.eviction.ToString()</label>
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Количество гостей", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <label class="control-label">@ViewBag.guestCount.ToString()</label>
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Стоимость проживания", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Label(ViewBag.Price.ToString() as string, htmlAttributes: new { @class = "control-label" })
+            </div>
+        </div>
+        @Html.Hidden("ClientId", ViewBag.ClientId as string)
+        @Html.Hidden("ApartmentId", ViewBag.Apartment.Id as string)
+        @Html.Hidden("settling", ViewBag.settling as string)
+        @Html.Hidden("eviction", ViewBag.eviction as string)
+        @Html.Hidden("guestCount", ViewBag.guestCount as string)
+        @Html.Hidden("isLiving", ViewBag.isLiving as string)
+        @Html.Hidden("Price", ViewBag.Price as string)
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Подтвердить" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}

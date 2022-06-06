@@ -1,0 +1,62 @@
+﻿@model ARM_Hotel.Models.Apartment
+
+@{
+    ViewBag.Title = "Удаление";
+}
+
+<h2>Удаление номера</h2>
+
+<h3>Вы уверены, что хотите удалить выбранный номер?</h3>
+<p style="color: red">@ViewBag.Error</p>
+<div>
+    <h4>Номер @Model.Number</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaxGuests)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaxGuests)
+        </dd>
+        
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            @if (ViewBag.Error == "")
+            {
+                <input type="submit" value="Удалить" class="btn btn-default" />
+
+            }
+            @Html.ActionLink("Вернуться к списку номеров", "Index")
+        </div>
+    }
+</div>

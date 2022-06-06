@@ -1,0 +1,39 @@
+﻿@model ARM_Hotel.Models.Photo
+
+@{
+    ViewBag.Title = "Удаление";
+}
+
+<h2>Удаление фотографии</h2>
+
+<h3>Вы действительно хотите удалить выбранное фото?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Apartment.Type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apartment.Type)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Photography)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Photography)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-default" /> |
+            @Html.ActionLink("Вернуться к списку фотографий", "Index")
+        </div>
+    }
+</div>

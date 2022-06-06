@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "LocalCabinet";
+}
+
+
+<h2>Личный кабинет</h2>
+<h4>Изменить личные данные</h4>
+<div class="form-group">
+    @Html.ActionLink("Перейти", "ChangeProfile", "Account", null, new { @class = "btn btn-info" })
+</div>
+<h4>Изменить пароль</h4>
+<div class="form-group">
+    @Html.ActionLink("Перейти", "ChangePassword", "Account", null, new { @class = "btn btn-info" })
+</div>

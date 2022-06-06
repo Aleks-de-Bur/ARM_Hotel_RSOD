@@ -1,0 +1,170 @@
+﻿@model ARM_Hotel.Models.BookingDetailsModel
+
+@{
+    ViewBag.Title = "Детальная информация о бронировании";
+}
+
+<h2>Детальная информация о бронировании</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.Apartment.Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.Apartment.Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.Client.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.Client.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.Settling)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.Settling)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.Eviction)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.Eviction)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.ValueOfGuests)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.ValueOfGuests)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.ClientId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.ClientId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.Type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.Type)
+        </dd>
+
+    </dl>
+</div>
+
+<h4>Гости</h4>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Guests)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Guests.Apartment.Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Client.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Client.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Settling)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Settling)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Eviction)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Eviction)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ValueOfGuests)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ValueOfGuests)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ClientId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClientId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+
+    </dl>
+</div>
+
+
+<p>
+    @Html.ActionLink("Редактировать", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Вернуться к списку гостей", "Index")
+</p>

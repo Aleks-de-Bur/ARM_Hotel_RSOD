@@ -1,0 +1,64 @@
+﻿@model ARM_Hotel.Models.Guest
+
+@{
+    ViewBag.Title = "Удаление";
+}
+
+<h2>Удаление гостя</h2>
+
+<h3>Вы уверены, что хотите удалить выбранного гостя?</h3>
+<div>
+    <h4>@Model.LastName @Model.FirstName</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Patronymic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Patronymic)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SeriaPas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SeriaPas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberPas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberPas)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-default" /> |
+            @Html.ActionLink("Вернуться к списку гостей", "Index")
+        </div>
+    }
+</div>

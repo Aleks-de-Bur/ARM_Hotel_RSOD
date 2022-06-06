@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ARM_Hotel.Models.Client>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Покупка билета на сеанс в кинотеатр</h2>
+
+<div class="form-group">
+    @Html.ActionLink("Создать нового", "Create", "Clients", null, new { @class = "btn btn-info" })
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @using (Html.BeginForm())
+                {
+                    <div>
+                        @Html.Hidden("ClientId", item.Id)
+                        <input type="submit" value="Выбрать" class="btn btn-primary" />
+                    </div>
+                }
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+

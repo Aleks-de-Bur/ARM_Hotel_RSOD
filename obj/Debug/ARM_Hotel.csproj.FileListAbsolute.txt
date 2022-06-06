@@ -1,0 +1,799 @@
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\ARM_Hotel.dll.config
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\ARM_Hotel.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\ARM_Hotel.pdb
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\csc.exe
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\csc.exe.config
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\csc.rsp
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\csi.exe
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\csi.exe.config
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\csi.rsp
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.AppContext.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Console.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.IO.Compression.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Net.Http.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.ValueTuple.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\vbc.exe.config
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\vbc.rsp
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\EntityFramework.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.WebPages.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\WebGrease.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\EntityFramework.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.WebPages.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\ru\System.Web.Razor.resources.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.pdb
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.InitialCreate.resources
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.fu.resources
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.toString.resources
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.newTables.resources
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.addBool.resources
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.anot.resources
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.anot1.resources
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Owin.dll
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.Role.resources
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.CopyComplete
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.mnogie.resources
+C:\Users\student\Desktop\Students\PIn-119\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.bag.resources
+E:\Саня\Лаб\ARM_Hotel\bin\ARM_Hotel.dll.config
+E:\Саня\Лаб\ARM_Hotel\bin\ARM_Hotel.dll
+E:\Саня\Лаб\ARM_Hotel\bin\ARM_Hotel.pdb
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\csc.exe
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\csc.exe.config
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\csc.rsp
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\csi.exe
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\csi.exe.config
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\csi.rsp
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.AppContext.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Collections.Immutable.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Console.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Globalization.Calendars.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.IO.Compression.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.IO.FileSystem.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Net.Http.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Net.Sockets.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Reflection.Metadata.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.ValueTuple.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Xml.XPath.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\vbc.exe
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\vbc.exe.config
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\vbc.rsp
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\VBCSCompiler.exe
+E:\Саня\Лаб\ARM_Hotel\bin\roslyn\VBCSCompiler.exe.config
+E:\Саня\Лаб\ARM_Hotel\bin\Antlr3.Runtime.dll
+E:\Саня\Лаб\ARM_Hotel\bin\EntityFramework.dll
+E:\Саня\Лаб\ARM_Hotel\bin\EntityFramework.SqlServer.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Owin.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Owin.Security.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Web.Infrastructure.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Newtonsoft.Json.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Owin.dll
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.Helpers.dll
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.Mvc.dll
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.Optimization.dll
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.Razor.dll
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.WebPages.Deployment.dll
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.WebPages.dll
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.WebPages.Razor.dll
+E:\Саня\Лаб\ARM_Hotel\bin\WebGrease.dll
+E:\Саня\Лаб\ARM_Hotel\bin\EntityFramework.xml
+E:\Саня\Лаб\ARM_Hotel\bin\EntityFramework.SqlServer.xml
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Owin.xml
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Owin.Security.xml
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.Helpers.xml
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.Mvc.xml
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.Optimization.xml
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.Razor.xml
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.WebPages.xml
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.WebPages.Deployment.xml
+E:\Саня\Лаб\ARM_Hotel\bin\System.Web.WebPages.Razor.xml
+E:\Саня\Лаб\ARM_Hotel\bin\Newtonsoft.Json.xml
+E:\Саня\Лаб\ARM_Hotel\bin\Antlr3.Runtime.pdb
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Саня\Лаб\ARM_Hotel\bin\ru\System.Web.Helpers.resources.dll
+E:\Саня\Лаб\ARM_Hotel\bin\ru\System.Web.Mvc.resources.dll
+E:\Саня\Лаб\ARM_Hotel\bin\ru\System.Web.Optimization.resources.dll
+E:\Саня\Лаб\ARM_Hotel\bin\ru\System.Web.Razor.resources.dll
+E:\Саня\Лаб\ARM_Hotel\bin\ru\System.Web.WebPages.resources.dll
+E:\Саня\Лаб\ARM_Hotel\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Саня\Лаб\ARM_Hotel\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.csprojAssemblyReference.cache
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.InitialCreate.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.fu.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.toString.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.newTables.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.addBool.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.anot.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.anot1.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.Role.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.mnogie.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.bag.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.GenerateResource.cache
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.CoreCompileInputs.cache
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.CopyComplete
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.dll
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.pdb
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.photo.resources
+E:\Саня\Лаб\ARM_Hotel\bin\EPPlus.dll
+E:\Саня\Лаб\ARM_Hotel\bin\EPPlus.Interfaces.dll
+E:\Саня\Лаб\ARM_Hotel\bin\EPPlus.System.Drawing.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Саня\Лаб\ARM_Hotel\bin\EPPlus.xml
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\ARM_Hotel.dll.config
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\ARM_Hotel.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\ARM_Hotel.pdb
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\csc.exe
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\csc.exe.config
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\csc.rsp
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\csi.exe
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\csi.exe.config
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\csi.rsp
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.AppContext.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Console.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.IO.Compression.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Net.Http.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.ValueTuple.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\vbc.exe
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\vbc.exe.config
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\vbc.rsp
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\VBCSCompiler.exe
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Antlr3.Runtime.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\EntityFramework.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\EntityFramework.SqlServer.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\EPPlus.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\EPPlus.Interfaces.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\EPPlus.System.Drawing.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.Owin.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.Owin.Security.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Newtonsoft.Json.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Owin.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.Helpers.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.Mvc.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.Optimization.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.Razor.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.WebPages.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.WebPages.Razor.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\WebGrease.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\EntityFramework.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\EntityFramework.SqlServer.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\EPPlus.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.Owin.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.Owin.Security.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.Helpers.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.Mvc.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.Optimization.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.Razor.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.WebPages.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\System.Web.WebPages.Razor.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Newtonsoft.Json.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Antlr3.Runtime.pdb
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\ru\System.Web.Razor.resources.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.AssemblyReference.cache
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.InitialCreate.resources
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.fu.resources
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.toString.resources
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.newTables.resources
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.addBool.resources
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.anot.resources
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.anot1.resources
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.Role.resources
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.mnogie.resources
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.bag.resources
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.photo.resources
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.GenerateResource.cache
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.dll
+C:\Users\dgpri\Downloads\ARM_Hotel (1)\ARM_Hotel\obj\Debug\ARM_Hotel.pdb
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\ARM_Hotel.dll.config
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\ARM_Hotel.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\ARM_Hotel.pdb
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\csc.exe
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\csc.exe.config
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\csc.rsp
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\csi.exe
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\csi.exe.config
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\csi.rsp
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.AppContext.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Console.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.IO.Compression.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Net.Http.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.ValueTuple.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\vbc.exe
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\vbc.exe.config
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\vbc.rsp
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\VBCSCompiler.exe
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Antlr3.Runtime.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\EntityFramework.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\EntityFramework.SqlServer.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\EPPlus.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\EPPlus.Interfaces.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\EPPlus.System.Drawing.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Owin.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Owin.Security.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Newtonsoft.Json.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Owin.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Quartz.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Buffers.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Memory.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Numerics.Vectors.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.Helpers.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.Mvc.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.Optimization.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.Razor.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.WebPages.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.WebPages.Razor.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\WebGrease.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\EntityFramework.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\EntityFramework.SqlServer.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\EPPlus.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Owin.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Owin.Security.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Quartz.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Buffers.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Memory.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Numerics.Vectors.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.Helpers.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.Mvc.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.Optimization.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.Razor.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.WebPages.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\System.Web.WebPages.Razor.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Newtonsoft.Json.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Antlr3.Runtime.pdb
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\ru\System.Web.Razor.resources.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.AssemblyReference.cache
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.InitialCreate.resources
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.fu.resources
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.toString.resources
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.newTables.resources
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.addBool.resources
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.anot.resources
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.anot1.resources
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.Role.resources
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.mnogie.resources
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.bag.resources
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.photo.resources
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.GenerateResource.cache
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.dll
+C:\Users\dgpri\Downloads\123\ARM_Hotel\obj\Debug\ARM_Hotel.pdb
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Quartz.dll
+E:\Саня\Лаб\ARM_Hotel\bin\System.Buffers.dll
+E:\Саня\Лаб\ARM_Hotel\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Саня\Лаб\ARM_Hotel\bin\System.Memory.dll
+E:\Саня\Лаб\ARM_Hotel\bin\System.Numerics.Vectors.dll
+E:\Саня\Лаб\ARM_Hotel\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Саня\Лаб\ARM_Hotel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Саня\Лаб\ARM_Hotel\bin\Quartz.xml
+E:\Саня\Лаб\ARM_Hotel\bin\System.Buffers.xml
+E:\Саня\Лаб\ARM_Hotel\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Саня\Лаб\ARM_Hotel\bin\System.Memory.xml
+E:\Саня\Лаб\ARM_Hotel\bin\System.Numerics.Vectors.xml
+E:\Саня\Лаб\ARM_Hotel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.AssemblyReference.cache
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.InitialCreate.resources
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.fu.resources
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.toString.resources
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.newTables.resources
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.addBool.resources
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.anot.resources
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.anot1.resources
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.Role.resources
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.mnogie.resources
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.bag.resources
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.photo.resources
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.GenerateResource.cache
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\obj\Debug\ARM_Hotel.pdb
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\ARM_Hotel.dll.config
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\ARM_Hotel.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\ARM_Hotel.pdb
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\csc.exe
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\csc.exe.config
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\csc.rsp
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\csi.exe
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\csi.exe.config
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\csi.rsp
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.AppContext.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Console.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.IO.Compression.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Net.Http.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.ValueTuple.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\vbc.exe
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\vbc.exe.config
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\vbc.rsp
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\VBCSCompiler.exe
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Antlr3.Runtime.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\EntityFramework.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\EntityFramework.SqlServer.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\EPPlus.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\EPPlus.Interfaces.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\EPPlus.System.Drawing.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Owin.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Owin.Security.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Newtonsoft.Json.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Owin.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Quartz.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Buffers.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Memory.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Numerics.Vectors.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.Helpers.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.Mvc.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.Optimization.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.Razor.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.WebPages.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.WebPages.Razor.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\WebGrease.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\EntityFramework.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\EntityFramework.SqlServer.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\EPPlus.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Owin.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Owin.Security.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Quartz.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Buffers.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Memory.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Numerics.Vectors.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.Helpers.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.Mvc.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.Optimization.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.Razor.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.WebPages.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\System.Web.WebPages.Razor.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Newtonsoft.Json.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Antlr3.Runtime.pdb
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\ru\System.Web.Razor.resources.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dgpri\Downloads\Tool 1C\ARM_Hotel\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\ARM_Hotel.dll.config
+C:\Users\admin\Desktop\ARM_Hotel\bin\ARM_Hotel.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\ARM_Hotel.pdb
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\ARM_Hotel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\ARM_Hotel\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\EntityFramework.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\EPPlus.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\EPPlus.Interfaces.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\EPPlus.System.Drawing.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Owin.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Owin.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\Quartz.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Buffers.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Memory.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\WebGrease.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\EntityFramework.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\EPPlus.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Owin.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Quartz.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Buffers.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Memory.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\ARM_Hotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\ARM_Hotel\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\ru\System.Web.Razor.resources.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\admin\Desktop\ARM_Hotel\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.InitialCreate.resources
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.fu.resources
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.toString.resources
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.newTables.resources
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.addBool.resources
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.anot.resources
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.anot1.resources
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.Role.resources
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.mnogie.resources
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.bag.resources
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.photo.resources
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.csproj.CopyComplete
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.dll
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.pdb
+C:\Users\admin\Desktop\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.Services.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.Services.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.servicesNew.resources
+E:\Саня\Лаб\ARM_Hotel\obj\Debug\ARM_Hotel.Migrations.boo.resources
